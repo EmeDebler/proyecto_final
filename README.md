@@ -47,7 +47,6 @@ Versión móvil
 ![Versión móvil](README_img/movil.jpg)
 
 
-images del directorio (cuarto commit)
 
 
 
