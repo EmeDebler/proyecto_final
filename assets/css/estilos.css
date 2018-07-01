@@ -1,3 +1,41 @@
+.nav_color{
+	background-color: #480751;
+}
+#nav_ico{
+	color: white;
+	font-size: 35px;
+}
+#nav_font{
+	color: white;
+}
+
+
+
+.img_color{
+   background-color: #60832F;
+}
+.parrafo_color{
+   background-color: #C9BB21;
+}
+.sin-pad{
+	padding: 0px;
+}
+.sin-mar{
+	margin: 0px;
+}
+.main_color{
+	background-color: #BA84EB;
+}
+
+
+
+
+
+
+
+
+
+
 .footer_color{
 	background-color: #480751;
 }

@@ -46,7 +46,11 @@ Versión móvil
 
 ![Versión móvil](README_img/movil.jpg)
 
+##Mockup
 
+home realizado con HTML, CSS y Bootstrap
+
+![mockup-home](README_img/escritorio_Mockup.png)
 
 
 
