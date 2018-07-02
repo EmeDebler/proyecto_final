@@ -1,5 +1,5 @@
 .nav_color{
-	background-color: #480751;
+    background-color: #480751;
 }
 #nav_ico{
 	color: white;
@@ -16,6 +16,12 @@ h1 #font-size{
 	background-repeat: no-repeat;
 	background-size: 
 }
+.fondo_fondo{
+	background-image: url(https://www.desktopbackground.org/t/2013/10/27/660667_30-wallpapers-sad-boxman-full-hd_1366x768_h.jpg);
+	background-repeat: cover;
+	background-size: 35rem 20rem;
+
+}
 .img_color{
    background-color: #60832F;
 }
@@ -30,6 +36,14 @@ h1 #font-size{
 }
 .main_color{
 	background-color: #BA84EB;
+}
+.main_font{
+	color: white;
+}
+.main_ico{
+	color: white;
+	font-size: 3rem;
+	line-height: 140px;
 }
 .footer_color{
 	background-color: #480751;
