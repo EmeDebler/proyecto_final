@@ -14,10 +14,10 @@ La versión móvil dará énfasis a mostrar las imágenes con opción de ver má
 
 ###ui: 
 
-La página será responsiva, tipo blog, con un navbar de 5 link (misión, blog, centros terapéuticos, compras online y contáctanos) con  un icono al costado derecho que llevara al inicio de la página junto con un banner que cambiará según la página en que el usuario se encuentre.
-Para nuestra main se usaran 6 grillas de tamaño 6, distribuidas en dos filas que mostrara una imagen referente al tema en cuestión y al costado información relacionada al mismo tema con un botón de acceso a más información.
-El footer tendrá 3 iconos que llevan directo a nuestras redes sociales.
-La versión móvil estará compuesta por el navbar donde las opciones se mostrarán a un costado, sin banner, la main contendrá la imagen referente al tema y un botón para acceder a su información. En su footer tendrá los iconos de las redes sociales.
+La página será responsiva, tipo blog, con un navbar de 5 link (misión, blog, centros terapéuticos, compras online y contáctanos), tendrá un icono al costado derecho que llevara al inicio de la página junto con un banner que cambiará según la página en la que el usuario se encuentre.
+Nuestra main se divide en 3 artículos, para los cuales se utilizarán 6 grillas de tamaño 6, distribuidas en dos filas que mostrara una imagen referente al tema en cuestión y al costado información relacionada al mismo tema con un botón de acceso a más información. El footer tendrá 4 iconos que llevan directo a nuestras redes sociales.
+La versión móvil mantendrá sus iconos y sus link estarán contenidos en una hamburguesa sacada de bootstrap. La main contendrá la imagen referente al tema y un botón para acceder a su información la cual será escondida usando media query (display: none) y grillas responsivas para que se distribuyan correctamente al tamaño móvil, dicha grilla será de tamaño S y se realizará en  nuestra página con estilo propio en CSS. En su footer mantendrá los iconos de las redes sociales en tamaño rem para que se ajuste a la resolución de la ventana del navegador.
+
 
 ###Paleta de Colores
 
@@ -30,7 +30,8 @@ La versión móvil estará compuesta por el navbar donde las opciones se mostrar
 - párrafos: Song Myung 
 
 ##Los requerimientos del sitio:
- navbar 
+
+Esta página será informativa y estará enfocada a dar tips, recomendaciones, lugares de venta y atención profesional referente al área de terapias complementarias dentro de la comuna. De esta forma será una ayuda para la comunidad en cuanto a productos, posología, contraindicaciones, entendiendo que estas terapias funcionan como co-ayudantes y no reemplazan tratamientos convencionales (alópatas).
 
 ##La definición de layout:
 
@@ -51,6 +52,8 @@ Versión móvil
 home realizado con HTML, CSS y Bootstrap
 
 ![mockup-home](README_img/escritorio_Mockup.png)
+
+![mockup-movil](README_img/movil_Mockup.png)
 
 
 
