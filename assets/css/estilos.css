@@ -11,22 +11,11 @@
 h1 #font-size{
     font-size: 5rem;
 }
-.fondo{
-	background-image: url(assets/img/img_de_prueba.jpg);
-	background-repeat: no-repeat;
-	background-size: 
-}
-.fondo_fondo{
-	background-image: url(https://www.desktopbackground.org/t/2013/10/27/660667_30-wallpapers-sad-boxman-full-hd_1366x768_h.jpg);
-	background-repeat: cover;
-	background-size: 35rem 20rem;
-
-}
 .img_color{
-   background-color: #60832F;
+   background-color: #BA84EB;
 }
 .parrafo_color{
-   background-color: #C9BB21;
+   background-color: #BA84EB;
 }
 .sin-pad{
 	padding: 0px;
@@ -35,7 +24,7 @@ h1 #font-size{
 	margin: 0px;
 }
 .main_color{
-	background-color: #BA84EB;
+	background-color: #7D2AAC;
 }
 .main_font{
 	color: white;
@@ -65,3 +54,6 @@ div .none{
   }
 @media only screen and (min-width: 600px) 
 {
+i .none_btn{
+    display: none;
+}
