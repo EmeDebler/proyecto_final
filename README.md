@@ -31,7 +31,6 @@ La versión móvil mantendrá sus iconos y sus link estarán contenidos en una h
 
 ##Los requerimientos del sitio:
 
-Esta página será informativa y estará enfocada a dar tips, recomendaciones, lugares de venta y atención profesional referente al área de terapias complementarias dentro de la comuna. De esta forma será una ayuda para la comunidad en cuanto a productos, posología, contraindicaciones, entendiendo que estas terapias funcionan como co-ayudantes y no reemplazan tratamientos convencionales (alópatas).
 
 ##La definición de layout:
 
